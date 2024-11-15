@@ -16,7 +16,7 @@ None
 ## Questions
 If you have any further questions about this application contact me at:
 
-GitHub: TalHol06
+GitHub: TalHol06 <br>
 Email: taleeh98454@gmail.com
 
 ## License
