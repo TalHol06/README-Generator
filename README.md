@@ -10,6 +10,9 @@ This is an application built with node.js that takes user input to create a READ
 ## Usage
 To use this application, open VS Code and open a terminal. Inside the terminal type "index.js" to start the app. When prompted, enter the title, description, installation requirements, instructions for use, etc. for your project. Once you are done answering all of the prompts a README file called "professionalREADME.md" will be created with information entered into the prompts.
 
+For further demonstration, please view the following video:<br>
+https://drive.google.com/file/d/15S-J4NennMIihVziibDmBmuB3szD8EHo/view
+
 ## Contributors
 None
 
